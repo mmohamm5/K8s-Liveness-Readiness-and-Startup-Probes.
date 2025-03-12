@@ -1,0 +1,6 @@
+...
+    livenessProbe:
+      grpc:
+        port: 2379
+      initialDelaySeconds: 10
+...
